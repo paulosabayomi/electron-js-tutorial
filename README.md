@@ -7,5 +7,5 @@
 ## Running the app
 
 - Clone the repository
-- Then run `npm install`
-- The run `npm run start`
+- Then run `npm install` to install the dependencies
+- Then run `npm run start`, this will run and launch the desktop app
